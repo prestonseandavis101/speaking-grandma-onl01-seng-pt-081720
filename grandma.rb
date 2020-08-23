@@ -7,8 +7,8 @@ def speak_to_grandma(string)
     puts "NO, NOT SINCE 1938!"
   elsif string.upcase
     puts "NO, NOT SINCE 1938!"
-  elsif string == "I LOVE YOU GRANDMA"
-    puts "I LOVE YOU TOO PUMPKIN"
+  elsif string == "I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU TOO PUMPKIN!"
   end
 end
 
