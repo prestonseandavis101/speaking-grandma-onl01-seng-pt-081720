@@ -3,11 +3,11 @@ def speak_to_grandma(string)
     puts 'HUH?! SPEAK UP, SONNY!'
   elseif string.downcase
     puts 'HUH?! SPEAK UP, SONNY'
-  else if string.upcase
+  elseif string.upcase
     puts 'NO, NOT SINCE 1938!'
-  else if string.upcase
+  elseif string.upcase
     puts 'NO, NOT SINCE 1938!'
-  else if string = 'I LOVE YOU GRANDMA'
+  elseif string = 'I LOVE YOU GRANDMA'
     puts 'I LOVE YOU TOO PUMPKIN
   end
 end
